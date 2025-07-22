@@ -26,13 +26,13 @@
 
 ##  🤔 Basic & Experience
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>🧑‍💻 Infra</strong></p>
+    <!-- <p><strong>🧑‍💻 Infra</strong></p> -->
        <div>
-         <img src="https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+         <!--<img src="https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
          <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
          <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-         <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> -->
+         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> -->
      </div>
     <p><strong>📫 AI</strong></p>
     <div>
